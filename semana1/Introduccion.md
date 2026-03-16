@@ -1,21 +1,9 @@
 # Semana 1: Introducción a los Sistemas Operativos
 
-## ¿Qué es un sistema operativo?
 
-Un **sistema operativo** es el software encargado de **administrar los recursos** de la computadora y permitir que los programas puedan ejecutarse correctamente.
+## Ideas Previas
 
-Se le puede entender como un **administrador** que organiza el uso de los recursos del sistema.
-
----
-
-## Idea principal
-
-El sistema operativo **no es el hardware** ni tampoco es un proceso.  
-Su función es **controlar y repartir** los recursos de la computadora entre los programas que los necesitan.
-
----
-
-## ¿Qué son los recursos?
+#### ¿Qué son los recursos?
 
 Los recursos son los elementos que los programas necesitan para funcionar, por ejemplo:
 
@@ -30,7 +18,7 @@ Los recursos son los elementos que los programas necesitan para funcionar, por e
 
 ---
 
-## ¿Qué es un proceso?
+#### ¿Qué es un proceso?
 
 Un **proceso** es un **programa en ejecución**.
 
@@ -42,13 +30,29 @@ Es importante no confundir:
 
 ---
 
-## Relación entre proceso, recurso y sistema operativo
+#### Relación entre proceso, recurso y sistema operativo
 
 Se puede entender así:
 
 - El **proceso** solicita recursos
 - Los **recursos** son el hardware y otros elementos del sistema
 - El **sistema operativo** decide cómo repartir esos recursos
+
+---
+## ¿Qué es un sistema operativo?
+
+Un **sistema operativo** es el software encargado de **administrar los recursos** de la computadora y permitir que los programas puedan ejecutarse correctamente.
+
+Se le puede entender como un **administrador** que organiza el uso de los recursos del sistema.
+
+---
+
+## Idea principal
+
+El sistema operativo **no es el hardware** ni tampoco es un proceso.  
+Su función es **controlar y repartir** los recursos de la computadora entre los programas que los necesitan.
+
+---
 
 ---
 
